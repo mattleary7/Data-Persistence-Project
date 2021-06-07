@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19041.985; Version 2004; 64bit' Language: 'en' Physical Memory: 16342 MB
+OS: 'Windows 10 Enterprise; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 32432 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,110 +11,110 @@ C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-E:/GitHub/Data-Persistence-Project
+C:/GitHub/Data-Persistence-Project
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52052
-Successfully changed project path to: E:/GitHub/Data-Persistence-Project
-E:/GitHub/Data-Persistence-Project
+54749
+Successfully changed project path to: C:/GitHub/Data-Persistence-Project
+C:/GitHub/Data-Persistence-Project
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 53.80 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 47.48 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.8f1 (507919d4fff5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path E:/GitHub/Data-Persistence-Project/Assets
+[Subsystems] Discovering subsystems at path C:/GitHub/Data-Persistence-Project/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
     Vendor:   
-    VRAM:     8079 MB
-    Driver:   27.21.14.6172
+    VRAM:     16216 MB
+    Driver:   27.20.100.8681
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56924
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002611 seconds.
+Registered in 0.001518 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 35.94 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 39.78 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.092 seconds
+- Completed reload, in  1.025 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001503 seconds.
+Registered in 0.001132 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 35.57 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 39.61 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.798 seconds
+- Completed reload, in  0.887 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2422 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.5 MB.
-System memory in use after: 113.7 MB.
+Unloading 2437 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.6 MB.
+System memory in use after: 115.8 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2863.
-Total: 1.917200 ms (FindLiveObjects: 0.242000 ms CreateObjectMapping: 0.124100 ms MarkObjects: 1.472200 ms  DeleteObjects: 0.078300 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2878.
+Total: 2.124200 ms (FindLiveObjects: 0.220500 ms CreateObjectMapping: 0.077700 ms MarkObjects: 1.764900 ms  DeleteObjects: 0.060300 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/Bounce.physicMaterial
   artifactKey: Guid(bc24b7fc41d5dfb4698e2ca16a37dfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bounce.physicMaterial using Guid(bc24b7fc41d5dfb4698e2ca16a37dfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1403efc6be2392189457ff26c5d74ba4') in 0.032788 seconds
-  Import took 0.035961 seconds .
+Start importing Assets/Bounce.physicMaterial using Guid(bc24b7fc41d5dfb4698e2ca16a37dfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e5371f839f586ac2ec08a43adf849e') in 0.027030 seconds
+  Import took 0.030179 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 18.780747 seconds.
-  path: Assets/Scenes/main.unity
-  artifactKey: Guid(78a510c781f19db4da14f78ebb30946a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/main.unity using Guid(78a510c781f19db4da14f78ebb30946a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e995457a0cc3240c5dbbb3c5378bbc7c') in 0.002898 seconds
-  Import took 0.006036 seconds .
+  Time since last request: 19.480466 seconds.
+  path: Assets/Scenes/menu.unity
+  artifactKey: Guid(9b1183085f0b13c4498dbaba22e688cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu.unity using Guid(9b1183085f0b13c4498dbaba22e688cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2961f68379944966acd7e02144617db4') in 0.001812 seconds
+  Import took 0.005444 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.007234 seconds.
-  path: Assets/Scenes/main.unity
-  artifactKey: Guid(78a510c781f19db4da14f78ebb30946a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/main.unity using Guid(78a510c781f19db4da14f78ebb30946a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e995457a0cc3240c5dbbb3c5378bbc7c') in 0.002360 seconds
-  Import took 0.005500 seconds .
+  Time since last request: 0.010549 seconds.
+  path: Assets/Scenes/menu.unity
+  artifactKey: Guid(9b1183085f0b13c4498dbaba22e688cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu.unity using Guid(9b1183085f0b13c4498dbaba22e688cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2961f68379944966acd7e02144617db4') in 0.001809 seconds
+  Import took 0.006089 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001118 seconds.
+Registered in 0.001559 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.720 seconds
+- Completed reload, in  0.961 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2313 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 106.6 MB.
-System memory in use after: 106.8 MB.
+Unloading 2315 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.5 MB.
+System memory in use after: 107.7 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2866.
-Total: 1.889200 ms (FindLiveObjects: 0.190900 ms CreateObjectMapping: 0.081500 ms MarkObjects: 1.597900 ms  DeleteObjects: 0.018000 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2881.
+Total: 2.303800 ms (FindLiveObjects: 0.228600 ms CreateObjectMapping: 0.091400 ms MarkObjects: 1.967500 ms  DeleteObjects: 0.015500 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
